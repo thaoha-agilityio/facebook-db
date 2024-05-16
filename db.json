@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "email": "portalstester+14@asnet.com.vn",
+      "password": "$2a$10$1J9A0TzBTRewx3GPz.0ilu8vkNi2NGuocOuRASyCZv/q7RO8SXcsi",
+      "firstName": "Thao",
+      "surname": "Ha",
+      "dateOfBirth": "2000-09-01",
+      "gender": "female",
+      "id": 24,
+      "following": [25, 26]
+    },
+    {
+      "email": "portalstester+15@asnet.com.vn",
+      "password": "$2a$10$AtEEYeUO38ywLKa3CD5/XePeW25KJbbJhm8YtjZpZ/cDOm59JZ4V6",
+      "firstName": "Pam",
+      "surname": "Ela",
+      "dateOfBirth": "2000-01-01",
+      "gender": "female",
+      "id": 25,
+      "following": [24, 26]
+    },
+    {
+      "email": "portalstester+16@asnet.com.vn",
+      "password": "$2a$10$LxA5KiIB2VOVvBLmD5dggOIm0F96dL6rzaowsahrR/3X94w30WwKu",
+      "firstName": "Thao",
+      "surname": "Chanyeol",
+      "dateOfBirth": "2000-01-01",
+      "gender": "female",
+      "id": 26
+    }
+  ],
+  "posts": [],
+  "comments": []
+}
