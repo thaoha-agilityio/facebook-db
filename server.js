@@ -16,7 +16,7 @@ server.use(middlewares);
 // Share the database of the router with jsonServerAuth
 server.db = router.db;
 
-const rules = auth.rewriter({
+const rules = jsonServerAuth.rewriter({
   // Permission rules
   users: 640,
   posts: 660,
