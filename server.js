@@ -16,6 +16,16 @@ server.use(middlewares);
 // Share the database of the router with jsonServerAuth
 server.db = router.db;
 
+const rules = auth.rewriter({
+  // Permission rules
+  users: 640,
+  posts: 660,
+  comments: 660,
+});
+
+// You must apply the middlewares in the following order
+app.use(rules);
+
 // Use jsonServerAuth for authentication and user management
 server.use(jsonServerAuth);
 
