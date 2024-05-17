@@ -24,7 +24,7 @@ const rules = jsonServerAuth.rewriter({
 });
 
 // You must apply the middlewares in the following order
-app.use(rules);
+server.use(rules);
 
 // Use jsonServerAuth for authentication and user management
 server.use(jsonServerAuth);
