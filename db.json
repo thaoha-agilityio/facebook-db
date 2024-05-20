@@ -23,11 +23,22 @@
     {
       "email": "portalstester+16@asnet.com.vn",
       "password": "$2a$10$LxA5KiIB2VOVvBLmD5dggOIm0F96dL6rzaowsahrR/3X94w30WwKu",
-      "firstName": "Thao",
-      "surname": "Chanyeol",
+      "firstName": "Jane",
+      "surname": "Smith",
       "dateOfBirth": "2000-01-01",
       "gender": "female",
-      "id": 26
+      "id": 26,
+      "following": [24, 25]
+    },
+    {
+      "email": "portalstester+17@asnet.com.vn",
+      "password": "$2a$10$YBaMAzaqvM6Huk3LAEtQQO5o3ful02EcWWaS1VKlrIxM01i0j3eHO",
+      "firstName": "Portals",
+      "surname": "tester",
+      "dateOfBirth": "2000-01-01",
+      "gender": "female",
+      "id": 27,
+      "following": [24, 25, 26]
     }
   ],
   "posts": [],
