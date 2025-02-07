@@ -1,199 +1,45 @@
 {
-  "tasks": [
+  "users": [
     {
-      "id": "1",
-      "title": "Integrating with database",
-      "project": {
-        "id": "1",
-        "name": "google"
-      },
-      "estimation": 90,
-      "timeSpent": 60,
-      "status": "done",
-      "priority": "high",
-      "date": "Mar 22, 2023"
+      "email": "portalstester+14@asnet.com.vn",
+      "password": "Admin@123",
+      "username": "admin",
+      "id": 1
     },
     {
-      "id": "2",
-      "title": "Fix add work log API issue",
-      "project": {
-        "id": "2",
-        "name": "microsoft"
-      },
-      "estimation": 120,
-      "timeSpent": 60,
-      "date": "Mar 22, 2023",
-      "status": "in progress",
-      "priority": "low"
+      "email": "olivier+1@gmail.com",
+      "password": "Admin@123",
+      "id": 3
     },
     {
-      "id": "3",
-      "title": "Database query optimization",
-      "project": {
-        "id": "3",
-        "name": "facebook"
-      },
-      "estimation": 120,
-      "timeSpent": 60,
-      "date": "Mar 22, 2024",
-      "status": "note started",
-      "priority": "medium"
+      "email": "olivier+2@gmail.com",
+      "password": "$2a$10$uaue8VbdgBF/F.TW9OCszekXH0L7d8wbch7SLbdvtuaq0j.GhwRYK",
+      "id": 4
+    }
+  ],
+
+  "products": [
+    {
+      "name": "Black Simple Lamp",
+      "image": "https://rnb.scene7.com/is/image/roomandboard/MHH_Liv_ES1021_0523?size=900,900&scl=1",
+      "price": 8,
+      "id": 2,
+      "description": "description"
+    },
+
+    {
+      "name": "Minimal Stand",
+      "image": "https://assets.weimgs.com/weimgs/rk/images/wcm/products/202338/0005/eddy-sofa-60-94-q.jpg",
+      "price": 100,
+      "id": 3,
+      "description": "description"
     },
     {
-      "id": "4",
-      "title": "Analyst requirement",
-      "project": {
-        "id": "3",
-        "name": "facebook"
-      },
-      "estimation": 120,
-      "timeSpent": 60,
-      "date": "Mar 22, 2024",
-      "status": "note started",
-      "priority": "high"
-    },
-    {
-      "id": "5",
-      "title": "fix bugs",
-      "project": {
-        "id": "3",
-        "name": "facebook"
-      },
-      "estimation": 120,
-      "timeSpent": 60,
-      "date": "Mar 22, 2024",
-      "status": "note started",
-      "priority": "high"
-    },
-    {
-      "id": "6",
-      "title": "Analysis components",
-      "project": {
-        "id": "3",
-        "name": "facebook"
-      },
-      "estimation": 120,
-      "timeSpent": 60,
-      "date": "Mar 22, 2024",
-      "status": "note started",
-      "priority": "high"
-    },
-    {
-      "id": "7",
-      "title": "Analysis themes",
-      "project": {
-        "id": "3",
-        "name": "facebook"
-      },
-      "estimation": 120,
-      "timeSpent": 60,
-      "date": "Mar 22, 2024",
-      "status": "note started",
-      "priority": "high"
-    },
-    {
-      "id": "8",
-      "title": "Config Theme",
-      "project": {
-        "id": "3",
-        "name": "facebook"
-      },
-      "estimation": 120,
-      "timeSpent": 60,
-      "date": "Mar 22, 2024",
-      "status": "note started",
-      "priority": "high"
-    },
-    {
-      "id": "10",
-      "title": "Implement common components",
-      "project": {
-        "id": "1",
-        "name": "google"
-      },
-      "estimation": 90,
-      "timeSpent": 60,
-      "status": "done",
-      "priority": "high",
-      "date": "Mar 22, 2023"
-    },
-    {
-      "id": "11",
-      "title": "Implement Auth Layout",
-      "project": {
-        "id": "1",
-        "name": "google"
-      },
-      "estimation": 90,
-      "timeSpent": 60,
-      "status": "done",
-      "priority": "high",
-      "date": "Mar 22, 2023"
-    },
-    {
-      "id": "12",
-      "title": "Description Metadata",
-      "project": {
-        "id": "1",
-        "name": "google"
-      },
-      "estimation": 90,
-      "timeSpent": 60,
-      "status": "done",
-      "priority": "high",
-      "date": "Mar 22, 2023"
-    },
-    {
-      "id": "13",
-      "title": "Statistic section",
-      "project": {
-        "id": "2",
-        "name": "microsoft"
-      },
-      "estimation": 120,
-      "timeSpent": 60,
-      "date": "Mar 22, 2023",
-      "status": "in progress",
-      "priority": "low"
-    },
-    {
-      "id": "14",
-      "title": "Selling Services",
-      "project": {
-        "id": "2",
-        "name": "microsoft"
-      },
-      "estimation": 120,
-      "timeSpent": 60,
-      "date": "Mar 22, 2023",
-      "status": "in progress",
-      "priority": "low"
-    },
-    {
-      "id": "15",
-      "title": "Page Speed for Sign Up",
-      "project": {
-        "id": "2",
-        "name": "microsoft"
-      },
-      "estimation": 120,
-      "timeSpent": 60,
-      "date": "Mar 22, 2023",
-      "status": "in progress",
-      "priority": "low"
-    },
-    {
-      "id": "16",
-      "title": "Handle search Invoices",
-      "project": {
-        "id": "2",
-        "name": "microsoft"
-      },
-      "estimation": 120,
-      "timeSpent": 60,
-      "date": "Mar 22, 2023",
-      "status": "in progress",
-      "priority": "low"
+      "name": "Coffee Chair",
+      "image": "https://assets.weimgs.com/weimgs/rk/images/wcm/products/202328/0001/haven-2-piece-bumper-chaise-sectional-106-113-1-q.jpg",
+      "price": 15,
+      "description": "description",
+      "id": 4
     }
   ]
 }

@@ -1,4 +1,5 @@
 const jsonServer = require("json-server");
+const jsonServerAuth = require("json-server-auth");
 
 // Create a JSON Server instance
 const server = jsonServer.create();
@@ -14,6 +15,18 @@ server.use(middlewares);
 
 // Share the database of the router with jsonServerAuth
 server.db = router.db;
+
+const rules = jsonServerAuth.rewriter({
+  // Permission rules
+  users: 640,
+  products: 660,
+});
+
+// You must apply the middlewares in the following order
+server.use(rules);
+
+// Use jsonServerAuth for authentication and user management
+server.use(jsonServerAuth);
 
 // Use the router for handling API routes
 server.use(router);

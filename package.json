@@ -12,6 +12,7 @@
   "author": "Thao",
   "license": "ISC",
   "devDependencies": {
-    "json-server": "^0.17.3"
+    "json-server": "^0.17.3",
+    "json-server-auth": "^2.1.0"
   }
 }
