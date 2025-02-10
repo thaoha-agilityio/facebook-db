@@ -40,6 +40,41 @@
       "price": 15,
       "description": "description",
       "id": 4
+    },
+    {
+      "name": "Simple Desk",
+      "image": "https://craftsmill.in/cdn/shop/files/CurvySofa8.jpg?crop=center&height=2000&v=1732108465&width=2000",
+      "price": 15,
+      "description": "description",
+      "id": 5
+    },
+    {
+      "name": "Minimal Lamp",
+      "image": "https://www.realsimple.com/thmb/kRRAaK6XhZIqL_GFIxfZzHTHx7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/furniture-styles-GettyImages-1467984982-512fed4077b646eabbc187619554d517.jpg",
+      "price": 15,
+      "description": "description",
+      "id": 6
+    },
+    {
+      "name": "Coffee Chair",
+      "image": "https://i.ebayimg.com/images/g/5dMAAOSwadFlVHwi/s-l1200.jpg",
+      "price": 15,
+      "description": "description",
+      "id": 7
+    },
+    {
+      "name": "Tea Table",
+      "image": "https://www.bocadolobo.com/images/products/product-ambiences/lapiaz-marble-center-table-1-boca-do-lobo.jpg",
+      "price": 15,
+      "description": "description",
+      "id": 8
+    },
+    {
+      "name": "Minimal Desk",
+      "image": "https://cdn.sanity.io/images/3cpshb0v/production/8bf42ee89f31e5ea563df39d3342354f387bf930-1234x1855.jpg?rect=0,535,1031,1320&w=3840&q=85&fit=clip&auto=format",
+      "price": 15,
+      "description": "description",
+      "id": 9
     }
   ]
 }
