@@ -19,7 +19,6 @@ server.db = router.db;
 const rules = jsonServerAuth.rewriter({
   // Permission rules
   users: 640,
-  products: 660,
 });
 
 // You must apply the middlewares in the following order
