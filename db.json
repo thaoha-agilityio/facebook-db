@@ -17,64 +17,120 @@
       "id": 4
     }
   ],
-
   "products": [
     {
       "name": "Black Simple Lamp",
-      "image": "https://rnb.scene7.com/is/image/roomandboard/MHH_Liv_ES1021_0523?size=900,900&scl=1",
       "price": 8,
       "id": 2,
-      "description": "description"
+      "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home. ",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://rnb.scene7.com/is/image/roomandboard/MHH_Liv_ES1021_0523?size=900,900&scl=1"
+        },
+        {
+          "id": 2,
+          "image": "https://craftsmill.in/cdn/shop/files/CurvySofa8.jpg?crop=center&height=2000&v=1732108465&width=2000"
+        },
+        {
+          "id": 3,
+          "image": "https://www.bocadolobo.com/images/products/product-ambiences/lapiaz-marble-center-table-1-boca-do-lobo.jpg"
+        }
+      ],
+      "rating": 4.5,
+      "reviewNumber": 50
     },
-
     {
       "name": "Minimal Stand",
-      "image": "https://assets.weimgs.com/weimgs/rk/images/wcm/products/202338/0005/eddy-sofa-60-94-q.jpg",
       "price": 100,
       "id": 3,
-      "description": "description"
+      "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home. ",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://www.alankaram.in/wp-content/uploads/2022/12/A7402720-2048x1365-1.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://craftsmill.in/cdn/shop/files/CurvySofa8.jpg?crop=center&height=2000&v=1732108465&width=2000"
+        },
+        {
+          "id": 3,
+          "image": "https://www.bocadolobo.com/images/products/product-ambiences/lapiaz-marble-center-table-1-boca-do-lobo.jpg"
+        }
+      ],
+      "rating": 5,
+      "reviewNumber": 50
     },
     {
       "name": "Coffee Chair",
-      "image": "https://assets.weimgs.com/weimgs/rk/images/wcm/products/202328/0001/haven-2-piece-bumper-chaise-sectional-106-113-1-q.jpg",
       "price": 15,
       "description": "description",
-      "id": 4
-    },
-    {
-      "name": "Simple Desk",
-      "image": "https://craftsmill.in/cdn/shop/files/CurvySofa8.jpg?crop=center&height=2000&v=1732108465&width=2000",
-      "price": 15,
-      "description": "description",
-      "id": 5
-    },
-    {
-      "name": "Minimal Lamp",
-      "image": "https://www.realsimple.com/thmb/kRRAaK6XhZIqL_GFIxfZzHTHx7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/furniture-styles-GettyImages-1467984982-512fed4077b646eabbc187619554d517.jpg",
-      "price": 15,
-      "description": "description",
-      "id": 6
-    },
-    {
-      "name": "Coffee Chair",
-      "image": "https://i.ebayimg.com/images/g/5dMAAOSwadFlVHwi/s-l1200.jpg",
-      "price": 15,
-      "description": "description",
-      "id": 7
-    },
-    {
-      "name": "Tea Table",
-      "image": "https://www.bocadolobo.com/images/products/product-ambiences/lapiaz-marble-center-table-1-boca-do-lobo.jpg",
-      "price": 15,
-      "description": "description",
-      "id": 8
+      "id": 4,
+      "images": [
+        {
+          "id": 1,
+          "image": "https://cb.scene7.com/is/image/Crate/cb_mSC_20241226_Furniture_Sectionals2?bfc=on&wid=500&qlt=80&op_sharpen=1"
+        },
+        {
+          "id": 2,
+          "image": "https://cb.scene7.com/is/image/Crate/cb_mSC_20241101_Furniture_TVStandsStorage?bfc=on&wid=500&qlt=80&op_sharpen=1"
+        }
+      ],
+      "rating": 5,
+      "reviewNumber": 500
     },
     {
       "name": "Minimal Desk",
-      "image": "https://cdn.sanity.io/images/3cpshb0v/production/8bf42ee89f31e5ea563df39d3342354f387bf930-1234x1855.jpg?rect=0,535,1031,1320&w=3840&q=85&fit=clip&auto=format",
+      "price": 15,
+      "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home. ",
+      "id": 5,
+      "images": [
+        {
+          "id": 1,
+          "image": "https://assets.weimgs.com/weimgs/rk/images/wcm/products/202328/0001/haven-2-piece-bumper-chaise-sectional-106-113-1-q.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://craftsmill.in/cdn/shop/files/CurvySofa8.jpg?crop=center&height=2000&v=1732108465&width=2000"
+        },
+        {
+          "id": 3,
+          "image": "https://www.bocadolobo.com/urls/products/product-ambiences/lapiaz-marble-center-table-1-boca-do-lobo.jpg"
+        },
+        {
+          "id": 4,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmqo1fvGnenubaadHWgr3qdALwuKORQuyT1MnPYBSU0GvQXgXZyJEa6IIvs6AGUivPjI&usqp=CAU"
+        }
+      ],
+      "rating": 3,
+      "reviewNumber": 10
+    },
+    {
+      "name": "Minimal Lamp",
       "price": 15,
       "description": "description",
-      "id": 9
+      "id": 6,
+      "images": [
+        {
+          "id": 1,
+          "image": "https://lh6.googleusercontent.com/KLHA2r0tbXWZFXceHmjfXIeF24FGcf-LkxlhGVb1QUw-SoaP2oVJEMxJzFDi94B8h71YosY4QIPuTu0hfZSiG8EhakKlKs3uJCLT0NzHhwV55mlTfofFhluH5GskO1cF9VCbL-XIsAovBV-0wWAkLsipHOBJCX-YtQl5RkPnxf2Qbcf6fSCTa2C9OQ"
+        },
+        {
+          "id": 2,
+          "image": "https://craftsmill.in/cdn/shop/files/CurvySofa8.jpg?crop=center&height=2000&v=1732108465&width=2000"
+        },
+        {
+          "id": 3,
+          "image": "https://www.bocadolobo.com/images/products/product-ambiences/lapiaz-marble-center-table-1-boca-do-lobo.jpg"
+        },
+        {
+          "id": 4,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmqo1fvGnenubaadHWgr3qdALwuKORQuyT1MnPYBSU0GvQXgXZyJEa6IIvs6AGUivPjI&usqp=CAU"
+        }
+      ],
+      "rating": 4,
+      "reviewNumber": 120
     }
   ]
 }
