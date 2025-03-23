@@ -16,7 +16,15 @@
       "email": "olivier+2@gmail.com",
       "password": "$2a$10$uaue8VbdgBF/F.TW9OCszekXH0L7d8wbch7SLbdvtuaq0j.GhwRYK",
       "username": "Smith",
+      "avatar": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
       "id": 4
+    },
+    {
+      "email": "olivier+3@gmail.com",
+      "password": "$2a$10$BS6VwATnt0YbCBXvr/Sz5.JXnL.y6bUGmuaJ5RVuhVCvgXyPKv8bO",
+      "username": "Lily",
+      "avatar": "https://media.zenfs.com/en/deadline.com/31aa3097903e44ead3ada9e73456444d",
+      "id": 6
     }
   ],
   "products": [
