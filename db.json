@@ -39,8 +39,10 @@
           "image": "https://www.mobelhomestore.com/cdn/shop/files/helbrp.jpg?v=1703153580"
         }
       ],
-      "rating": 4.5,
-      "reviewNumber": 50
+      "rating": 4,
+      "reviewNumber": 50,
+      "widthRatio": 1,
+      "heightRatio": 3.5
     },
     {
       "name": "Minimal Stand",
@@ -62,7 +64,9 @@
         }
       ],
       "rating": 5,
-      "reviewNumber": 50
+      "reviewNumber": 50,
+      "widthRatio": 1,
+      "heightRatio": 4.5
     },
     {
       "name": "Coffee Chair",
@@ -80,7 +84,9 @@
         }
       ],
       "rating": 5,
-      "reviewNumber": 500
+      "reviewNumber": 500,
+      "widthRatio": 1,
+      "heightRatio": 3.5
     },
     {
       "name": "Minimal Desk",
@@ -106,7 +112,9 @@
         }
       ],
       "rating": 3,
-      "reviewNumber": 10
+      "reviewNumber": 10,
+      "widthRatio": 1,
+      "heightRatio": 5
     },
     {
       "name": "Minimal Lamp",
@@ -132,7 +140,9 @@
         }
       ],
       "rating": 4,
-      "reviewNumber": 120
+      "reviewNumber": 120,
+      "widthRatio": 1,
+      "heightRatio": 4.5
     },
     {
       "name": "Waterbed",
@@ -153,7 +163,7 @@
           "image": "https://www.mobelhomestore.com/cdn/shop/files/helbrp.jpg?v=1703153580"
         }
       ],
-      "rating": 4.5,
+      "rating": 4,
       "reviewNumber": 50
     },
     {
@@ -176,7 +186,9 @@
         }
       ],
       "rating": 5,
-      "reviewNumber": 50
+      "reviewNumber": 50,
+      "widthRatio": 1,
+      "heightRatio": 3.5
     },
     {
       "name": "Rocking chair",
@@ -194,7 +206,9 @@
         }
       ],
       "rating": 5,
-      "reviewNumber": 500
+      "reviewNumber": 500,
+      "widthRatio": 1,
+      "heightRatio": 4.5
     },
     {
       "name": "Chaise longue",
@@ -246,7 +260,9 @@
         }
       ],
       "rating": 4,
-      "reviewNumber": 120
+      "reviewNumber": 120,
+      "widthRatio": 1,
+      "heightRatio": 3.5
     },
     {
       "name": "Ottoman",
@@ -272,7 +288,9 @@
         }
       ],
       "rating": 4,
-      "reviewNumber": 120
+      "reviewNumber": 120,
+      "widthRatio": 1,
+      "heightRatio": 5
     },
     {
       "name": "banjo clock",
@@ -298,7 +316,9 @@
         }
       ],
       "rating": 4,
-      "reviewNumber": 120
+      "reviewNumber": 120,
+      "widthRatio": 1,
+      "heightRatio": 4.5
     },
     {
       "name": "carrel",
@@ -324,7 +344,9 @@
         }
       ],
       "rating": 4,
-      "reviewNumber": 120
+      "reviewNumber": 120,
+      "widthRatio": 1,
+      "heightRatio": 3.5
     },
     {
       "name": "candlestand",
@@ -350,7 +372,9 @@
         }
       ],
       "rating": 4,
-      "reviewNumber": 120
+      "reviewNumber": 120,
+      "widthRatio": 1,
+      "heightRatio": 4.5
     },
     {
       "name": "tripod",
@@ -376,7 +400,9 @@
         }
       ],
       "rating": 4,
-      "reviewNumber": 120
+      "reviewNumber": 120,
+      "widthRatio": 1,
+      "heightRatio": 5
     },
     {
       "name": "Pembroke table",
@@ -402,7 +428,9 @@
         }
       ],
       "rating": 4,
-      "reviewNumber": 120
+      "reviewNumber": 120,
+      "widthRatio": 1,
+      "heightRatio": 4.5
     },
     {
       "name": "Parsons table",
@@ -428,7 +456,9 @@
         }
       ],
       "rating": 4,
-      "reviewNumber": 120
+      "reviewNumber": 120,
+      "widthRatio": 1,
+      "heightRatio": 4.5
     },
     {
       "name": "gueridon",
@@ -454,7 +484,9 @@
         }
       ],
       "rating": 4,
-      "reviewNumber": 120
+      "reviewNumber": 120,
+      "widthRatio": 1,
+      "heightRatio": 4.5
     },
     {
       "name": "drum table",
@@ -480,7 +512,9 @@
         }
       ],
       "rating": 4,
-      "reviewNumber": 120
+      "reviewNumber": 120,
+      "widthRatio": 1,
+      "heightRatio": 4.5
     },
     {
       "id": "20",
