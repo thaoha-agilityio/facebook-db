@@ -384,7 +384,7 @@
       "name": "tripod",
       "price": 16,
       "description": "description",
-      "id": 12,
+      "id": 12345,
       "images": [
         {
           "id": 1,
